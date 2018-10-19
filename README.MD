@@ -1,0 +1,1 @@
+A sample kickstart file that uses a CSV file in /var/local/kickstart/server_list.csv to provide the hostname associated with a MAC address.
